@@ -4,9 +4,9 @@
 - Exercise 1
   
 - Exercise 2
-- - Diagonalize the 2x2 Matrix
-- - Calculate the Eigenvalues (2)
-- - Plot the Eigenvalues on the x,y plane
+  - Diagonalize the 2x2 Matrix
+  - Calculate the Eigenvalues (2)
+  - Plot the Eigenvalues on the x,y plane
 
 ## Graded Project
 
