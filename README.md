@@ -1,12 +1,12 @@
-#Repository Organization
+# Repository Organization
 
-##Exercises
+## Exercises
 - Exercise 1
 - Exercise 2
 
-##Graded Project
+## Graded Project
 
-##Lectures
+## Lectures
 - Lecture 1: Python
 - Lecture 2:
 - Lecture 3:
